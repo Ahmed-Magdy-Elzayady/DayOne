@@ -1,3 +1,4 @@
-"Line One: i learned about git init"
+"Line One: this is the updated line"
 "Line Two: i learned about commits" 
 "Line Three: i learned about staging" 
+"Line four: this is a new file" 
